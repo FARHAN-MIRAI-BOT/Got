@@ -65,7 +65,7 @@ module.exports = {
     let msg = `│\n│  ${fancyFont("COMMANDS MENU")}\n│  ───────────────\n`;
     msg += `│  ${fancyFont("PREFIX")} : ${prefix}\n`;
     msg += `│  ${fancyFont("TOTAL")}  : ${allCommands.size}\n`;
-    msg += `│  ${fancyFont("AUTHOR")} : AKASH\n│\n`;
+    msg += `│  ${fancyFont("AUTHOR")} : rafi\n│\n`;
 
     for (const cat of Object.keys(categories)) {
       msg += `│  ┌─ ${categoryFont(cat.toUpperCase())} ─┐\n`;
