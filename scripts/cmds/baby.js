@@ -6,12 +6,12 @@ const mahmud = [
         "babu",
         "bbu",
         "jan",
-        "bot",
+        "সিজুকা",
         "জান",
         "জানু",
         "বেবি",
-        "বট",
-        "Bot"
+        "sizuka",
+        "Sizuka"
        ];
 
 const baseApiUrl = async () => {
